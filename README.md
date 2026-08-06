@@ -1,294 +1,721 @@
+<!-- ===================================================== -->
+<!--                    HEADER SECTION                      -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Priyanshu%20Bhagat&fontSize=60&fontColor=b794f6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=d6bcfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,20:4338CA,40:4F46E5,60:6366F1,80:7C3AED,100:8B5CF6&text=Priyanshu%20Bhagat&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20|%20Software%20Developer%20|%20Open%20Source%20Contributor&descAlignY=58&animation=fadeIn"/>
 
-<br/>
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+at+Scale;AI+%2B+Full+Stack+Engineer;Turning+Complex+Problems+into+Clean+Code;Open+Source+%7C+Product+Engineering" alt="Typing SVG" />
+<div align="center">
+
+# Priyanshu Bhagat
+
+### AI Engineer • Software Developer • Machine Learning • Full Stack Development
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Software+Engineering+%26+Backend+Development;Machine+Learning+%7C+Data+Analytics;Open+Source+Contributor;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.Tech-Artificial%20Intelligence%20%26%20Machine%20Learning-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/BMS%20Institute%20of%20Technology-Bengaluru-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Available%20For-Internships-4338CA?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/Location-Bengaluru,%20India-4338CA?style=flat-square)
+
+![](https://img.shields.io/badge/Focus-AI%20%7C%20Software%20Engineering-5B21B6?style=flat-square)
+
+![](https://img.shields.io/badge/Learning-System%20Design%20%26%20Cloud-6366F1?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://your-portfolio-url.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/priyanshu-bhagat-92238239a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white"/>
+<a href="mailto:priyanshu0@zohomail.in">
+<img src="https://img.shields.io/badge/Email-priyanshu0%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/><br/>
-
-<a href="https://priyanshubhagat.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/priyanshu-bhagat-92238239a"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:priyanshu0@zohomail.in"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/priyanshu015211"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=priyanshu015211&style=flat-square&color=8b5cf6&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/priyanshu015211?style=flat-square&color=8b5cf6&label=Followers&logo=github"/>
-<img src="https://img.shields.io/github/stars/priyanshu015211?style=flat-square&color=8b5cf6&label=Stars&logo=github"/>
+<a href="https://github.com/priyanshu015211">
+<img src="https://img.shields.io/badge/GitHub-priyanshu015211-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
-
 ---
-
-## About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
-```yaml
-name: Priyanshu Bhagat
-role: Software Engineer · AI/ML Engineer
-focus:
-  - Designing scalable, production-grade backend systems
-  - Building AI-powered coordination & intelligence platforms
-  - Full-stack product engineering with clean architecture
-  - Translating ambiguous problems into shippable systems
-philosophy: >
-  Engineering is not just writing code — it's designing systems
-  that stay reliable under real-world pressure.
-```
-
-I'm a software engineer who enjoys sitting at the intersection of **AI/ML, distributed systems, and full-stack product engineering**. My work spans real-time healthcare coordination platforms, capacity monitoring dashboards, and AI-driven developer intelligence tools — with a strong emphasis on **performance, security, and measurable impact**.
-
-I care about writing code that survives contact with production, not just code that passes a demo.
-
-### Open To
-- Software Engineering (Backend / Full Stack) roles
-- AI/ML Engineering opportunities
-- Open-source collaboration
-- Freelance / contract system design work
-
-<br/>
-
----
-
-## Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind&theme=dark"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,postgres,mongodb,redis&theme=dark"/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx,postman&theme=dark"/>
-
-<br/>
-
----
-
-## AI / ML Expertise
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | Advanced | Supervised/unsupervised models, feature engineering, scikit-learn, pandas pipelines |
-| **Deep Learning** | Advanced | Neural network design, PyTorch/TensorFlow, model training & evaluation |
-| **NLP & LLM Systems** | Expert | Prompt engineering, RAG pipelines, LLM orchestration, agentic workflows |
-| **AI System Design** | Expert | Emergency triage AI, capacity forecasting, sentiment & escalation intelligence |
-| **MLOps** | Intermediate | Model deployment, monitoring, versioning, CI/CD for ML services |
+![](https://komarev.com/ghpvc/?username=priyanshu015211&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/priyanshu015211?style=for-the-badge&color=6366F1&label=Followers)
+
+![](https://img.shields.io/github/stars/priyanshu015211?style=for-the-badge&color=8B5CF6&label=Stars)
 
 </div>
 
-<br/>
+---
+
+# About
+
+I am an **Artificial Intelligence & Machine Learning** undergraduate at **BMS Institute of Technology & Management** with a strong interest in **Software Engineering, Machine Learning, Backend Development, and AI-driven Product Engineering**.
+
+My work focuses on building scalable applications that combine modern software engineering practices with machine learning to solve practical problems. I enjoy designing production-ready systems, developing data-driven solutions, and continuously improving my engineering skills through real-world projects, internships, and open-source contributions.
+
+I have experience developing projects in healthcare analytics, predictive modeling, intelligent systems, and full-stack application development. My goal is to build software that is reliable, maintainable, and capable of creating measurable impact.
 
 ---
 
-## Featured Projects
+## Open To
 
-<details>
-<summary><b>AegisCare — AI Emergency Escalation & Healthcare Coordination System</b></summary>
-<br/>
+- Software Engineering Internships
+- AI / Machine Learning Internships
+- Backend Development
+- Full Stack Development
+- Open Source Collaboration
+- Research Opportunities
+- Product Engineering
+- Technical Communities
 
-AegisCare is an AI-powered healthcare coordination platform designed for emergency triage, overloaded hospitals, and rural healthcare environments. It intelligently prioritizes patient escalation paths and reduces response latency in high-load care scenarios.
+---
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, AI/ML models, REST APIs |
-| **Scale** | Multi-facility emergency coordination |
-| **Performance** | Real-time triage scoring & escalation routing |
-| **Security** | Access-controlled patient data handling |
-| **Impact** | Reduces coordination delay in overloaded/rural healthcare systems |
-| **Repository** | [AegisCare](https://github.com/priyanshu015211/AegisCare) |
+# Tech Stack
+
+## Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css"/>
+
+</div>
+
+---
+
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</div>
+
+---
+
+## Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite,firebase"/>
+
+</div>
+
+---
+
+## Artificial Intelligence & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</div>
+
+<p align="center">
+
+Scikit-Learn • Pandas • NumPy • Plotly • Streamlit • Prophet • Machine Learning • Data Analytics
+
+</p>
+
+---
+
+## Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+
+</div>
+
+---
+
+<div align="center">
+
+| Core Interests |
+|:--------------:|
+| Artificial Intelligence |
+| Machine Learning |
+| Software Engineering |
+| Backend Development |
+| Data Analytics |
+| Full Stack Development |
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent software through clean engineering, scalable architecture, and continuous learning."*
+
+</div>
+
+---
+---
+
+# AI / Machine Learning Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Experience |
+|:---|:---:|:---|
+| Artificial Intelligence | █████████░ | Intelligent Systems, AI Product Development |
+| Machine Learning | █████████░ | Classification, Regression, Forecasting |
+| Data Analytics | █████████░ | Predictive Analytics, KPI Dashboards |
+| Backend Development | ████████░░ | REST APIs, Scalable Backend Systems |
+| Full Stack Development | ████████░░ | Modern Web Applications |
+| Software Engineering | ████████░░ | Clean Architecture, Modular Design |
+| Data Visualization | █████████░ | Plotly, Streamlit Dashboards |
+| Research & Innovation | ████████░░ | Healthcare AI, Open Source, Hackathons |
+
+</div>
+
+---
+
+# Featured Projects
+
+<details open>
+
+<summary>
+
+## UAC Capacity Monitor
+
+**Enterprise Healthcare Forecasting Platform**
+
+</summary>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Status-Production-success?style=flat-square)
+![](https://img.shields.io/badge/R²-0.969-6D28D9?style=flat-square)
+![](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-4F46E5?style=flat-square)
+![](https://img.shields.io/badge/Forecasting-Prophet-6366F1?style=flat-square)
+
+<br><br>
+
+<a href="https://priyanshu-uac-capacity-monitor.streamlit.app">
+<img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</a>
+
+<a href="https://github.com/priyanshu015211/UAC-Capacity-Monitor">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+### Overview
+
+Developed during my Machine Learning Internship at **Unified Mentor**, this platform predicts healthcare capacity using machine learning models and interactive analytics dashboards to support data-driven planning.
+
+| Category | Details |
+|:---|:---|
+| Stack | Python, Streamlit, Pandas, NumPy, Plotly, Scikit-Learn, Prophet |
+| Architecture | Interactive Analytics Dashboard |
+| Forecasting | 30 / 60 / 90 Day Predictions |
+| Performance | **R² Score: 0.969** |
+| Features | KPI Monitoring, Executive Reports, Trend Analysis |
+| Repository | [View Repository](https://github.com/priyanshu015211/UAC-Capacity-Monitor) |
+
+### Highlights
+
+- Random Forest & Prophet forecasting
+- Executive KPI dashboard
+- Feature engineering
+- Capacity trend analysis
+- Interactive Plotly visualizations
+- Automated reporting
 
 </details>
 
+---
+
 <details>
-<summary><b>AegisCare 2.0 — Next-Gen Healthcare Coordination Engine</b></summary>
-<br/>
 
-The evolved iteration of AegisCare, rebuilt with a stronger backend foundation to support broader deployment scenarios and improved escalation intelligence.
+<summary>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Java, backend services |
-| **Scale** | Extended multi-region readiness |
-| **Performance** | Optimized escalation and coordination logic |
-| **Security** | Hardened service-level access control |
-| **Impact** | Foundation for scalable healthcare emergency response |
-| **Repository** | [AegisCare-2.0](https://github.com/priyanshu015211/AegisCare-2.0) |
+## AegisCare
+
+**AI-Powered Healthcare Coordination Platform**
+
+</summary>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![](https://img.shields.io/badge/AI-Healthcare-6D28D9?style=flat-square)
+![](https://img.shields.io/badge/Product-Platform-4F46E5?style=flat-square)
+
+<br><br>
+
+<a href="https://github.com/priyanshu015211/AegisCare">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+### Overview
+
+A healthcare platform designed to improve emergency response, patient prioritization, and accessibility using AI-assisted decision support and scalable backend architecture.
+
+| Category | Details |
+|:---|:---|
+| Stack | Python, Streamlit, AI |
+| Architecture | Modular Healthcare Platform |
+| Focus | Emergency Coordination |
+| AI Layer | Intelligent Decision Support |
+| Repository | [View Repository](https://github.com/priyanshu015211/AegisCare) |
+
+### Highlights
+
+- AI-assisted emergency workflows
+- Patient prioritization
+- Modular architecture
+- Healthcare accessibility
+- Scalable backend
 
 </details>
 
+---
+
 <details>
-<summary><b>UAC-Capacity-Monitor — Healthcare System Capacity Dashboard</b></summary>
-<br/>
 
-A Streamlit-based monitoring dashboard built for the HHS Unaccompanied Children program, tracking daily care load across CBP and HHS facilities in near real time.
+<summary>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Streamlit, data pipelines |
-| **Scale** | Cross-facility (CBP + HHS) daily monitoring |
-| **Performance** | Live intake/discharge flow tracking |
-| **Security** | Controlled operational data visualization |
-| **Impact** | Improves visibility into national-scale care capacity |
-| **Repository** | [UAC-Capacity-Monitor](https://github.com/priyanshu015211/UAC-Capacity-Monitor) |
+## AegisCare 2.0
+
+**Next Generation Healthcare Platform**
+
+</summary>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![](https://img.shields.io/badge/Architecture-Modular-6D28D9?style=flat-square)
+
+</div>
+
+### Overview
+
+A redesigned version of AegisCare with improved architecture, maintainability, and scalability. Built to explore enterprise software engineering principles for healthcare applications.
+
+| Category | Details |
+|:---|:---|
+| Stack | Java |
+| Focus | Enterprise Architecture |
+| Status | Active Development |
+| Goal | Scalable Healthcare Software |
+
+### Highlights
+
+- Improved project structure
+- Better modularity
+- Clean architecture
+- Extensible design
 
 </details>
 
+---
+
 <details>
-<summary><b>AI Developer Career Intelligence Platform</b></summary>
-<br/>
 
-An AI-driven platform designed to analyze developer profiles and surface actionable career intelligence — bridging raw activity data with meaningful engineering insight.
+<summary>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | HTML, AI/ML integration |
-| **Scale** | Developer-profile-scale analysis |
-| **Performance** | Fast insight generation from profile data |
-| **Security** | Read-only, non-invasive data analysis |
-| **Impact** | Helps developers understand and grow their engineering brand |
-| **Repository** | [AI-Developer-Career-Intelligence-Platform](https://github.com/priyanshu015211/AI-Developer-Career-Intelligence-Platform) |
+## AI Developer Career Intelligence Platform
+
+**AI-Powered Developer Analytics**
+
+</summary>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)
+![](https://img.shields.io/badge/Product-SaaS-6D28D9?style=flat-square)
+
+</div>
+
+### Overview
+
+An AI platform that analyzes GitHub repositories, coding patterns, and technical skills to generate personalized developer insights and career recommendations.
+
+| Category | Details |
+|:---|:---|
+| Stack | Python, FastAPI (Planned), JavaScript |
+| Focus | Developer Intelligence |
+| AI Features | Skill Analysis, Career Insights |
+| Status | In Progress |
+
+### Planned Features
+
+- GitHub profile analysis
+- Repository quality evaluation
+- AI career recommendations
+- Resume enhancement
+- Skill intelligence
+- Personalized learning roadmap
 
 </details>
 
-<br/>
-
 ---
 
-## Experience
+<details>
 
-### Software Engineer Contributor — Open Source & Applied AI Systems
-**mohu-org** · *2025 — Present*
+<summary>
 
-Contributing to a distributed engineering organization focused on applied AI and healthcare-adjacent system design, with primary ownership across commits, code review, and pull requests.
+## Human Behavior Classification
 
-- Designed and shipped AI coordination features across multiple production repositories
-- Led the majority share of commit activity (78%) across contributed repositories
-- Participated in code review cycles to uphold engineering quality standards
-- Collaborated cross-repository on 40+ projects spanning AI, healthcare, and dev tooling
+**Wearable Sensor Activity Recognition**
 
-`Python` `AI/ML` `System Design` `Code Review` `Git`
+</summary>
 
-<br/>
-
----
-
-## Achievements
+<br>
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **Pull Shark** | Awarded ×2 for consistent, high-quality pull request contributions |
-| **YOLO** | Merged a pull request without a review — trusted engineering judgment |
-| **Pair Extraordinaire** | Recognized for collaborative pair-programming contributions |
+![](https://img.shields.io/badge/Accuracy-97.11%25-success?style=flat-square)
+![](https://img.shields.io/badge/Dataset-Mobile%20Health-6D28D9?style=flat-square)
+
+<br><br>
+
+<a href="https://github.com/priyanshu015211/human-behavior-classification">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-<br/>
+### Overview
+
+A supervised machine learning project that classifies human activities using wearable sensor data with high prediction accuracy.
+
+| Category | Details |
+|:---|:---|
+| Dataset | Mobile Health Dataset |
+| Model | K-Nearest Neighbors |
+| Accuracy | **97.11%** |
+| Repository | [View Repository](https://github.com/priyanshu015211/human-behavior-classification) |
+
+### Highlights
+
+- Data preprocessing
+- Feature engineering
+- Model comparison
+- Performance evaluation
+- Activity recognition
+
+</details>
 
 ---
 
-## Certifications
+<details>
 
-**AWS**
+<summary>
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+## Heal Together
 
-**Oracle**
+**Collaborative Digital Healthcare Platform**
 
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</summary>
 
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20Certified-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<br/>
-
----
-
-## Coding Profiles
+<br>
 
 <div align="center">
 
-<a href="https://leetcode.com/priyanshu015211"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://geeksforgeeks.org/user/priyanshu015211"><img src="https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://hackerrank.com/priyanshu015211"><img src="https://img.shields.io/badge/HackerRank-2EA44F?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://codechef.com/users/priyanshu015211"><img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+![](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![](https://img.shields.io/badge/Open%20Source-Collaborative-6D28D9?style=flat-square)
+
+<br><br>
+
+<a href="https://github.com/priyanshu015211/Heal-Together">
+<img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-<br/>
+### Overview
+
+A collaborative healthcare platform focused on improving accessibility through modern web technologies and scalable software engineering.
+
+| Category | Details |
+|:---|:---|
+| Stack | Full Stack Development |
+| Status | Active Development |
+| Focus | Digital Healthcare |
+| Repository | [View Repository](https://github.com/priyanshu015211/Heal-Together) |
+
+### Planned Features
+
+- Authentication
+- Appointment scheduling
+- Patient management
+- Healthcare communication
+- Responsive interface
+
+</details>
 
 ---
 
-## GitHub Analytics
+<details>
+
+<summary>
+
+## SafeHalo
+
+**AI-Enabled Smart Safety Wearable**
+
+</summary>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu015211&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b794f6&icon_color=8b5cf6&text_color=d6bcfa&count_private=true"/>
-
-<img src="https://streak-stats.demolab.com?user=priyanshu015211&theme=radical&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=B794F6"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu015211&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b794f6&text_color=d6bcfa"/>
+![](https://img.shields.io/badge/Samsung-Anveshana%20Finalist-success?style=flat-square)
+![](https://img.shields.io/badge/IoT-Embedded%20Systems-6D28D9?style=flat-square)
 
 </div>
 
-<br/>
+### Overview
+
+A smart wearable safety solution integrating GPS, GSM, RFID, and embedded systems to provide rapid emergency assistance and location tracking.
+
+| Category | Details |
+|:---|:---|
+| Hardware | ESP32, SIM900L, Neo-6M GPS, MPU6050 |
+| Connectivity | GSM + GPS |
+| Tracking | RFID |
+| Recognition | Samsung Anveshana National Finalist |
+
+### Highlights
+
+- One-touch SOS
+- GPS tracking
+- RFID indoor tracking
+- Tamper detection
+- Smart wearable design
+
+</details>
 
 ---
-
-## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshu015211&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+| Engineering Principles |
+|:----------------------:|
+| Clean Code • Scalable Systems • AI-Driven Development • Performance • Security • User-Centric Design |
 
 </div>
 
-<br/>
+---
+---
+
+# Professional Experience
+
+## Machine Learning Intern
+
+**Unified Mentor** • 2025
+
+Developed an enterprise-grade predictive analytics platform for healthcare capacity forecasting. The project focused on transforming historical operational data into actionable insights through machine learning models and interactive dashboards.
+
+### Responsibilities
+
+- Designed and developed an interactive analytics dashboard using Streamlit
+- Built forecasting pipelines using Prophet and Random Forest
+- Performed feature engineering using lag variables and rolling statistics
+- Created KPI dashboards and executive summaries
+- Evaluated models using MAE, RMSE, MAPE and R²
+- Implemented data preprocessing and validation pipelines
+
+**Technology Stack**
+
+`Python` `Scikit-Learn` `Pandas` `NumPy` `Plotly` `Streamlit` `Prophet`
 
 ---
 
-## Contribution Activity
+## Open Source Contributor
+
+**GirlScript Summer of Code**
+
+Collaborated with developers on open-source projects while improving code quality, documentation, and GitHub workflows.
+
+### Contributions
+
+- Repository contributions
+- Documentation improvements
+- Git workflow
+- Issue resolution
+- Community collaboration
+
+**Tools**
+
+`Git` `GitHub` `Markdown`
+
+---
+
+## AI & Software Engineering Student
+
+**BMS Institute of Technology & Management**
+
+Currently pursuing a Bachelor's degree in Artificial Intelligence & Machine Learning while building production-oriented software projects focused on AI, backend engineering, healthcare technology, and developer tools.
+
+Primary Interests
+
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Data Analytics
+- Product Engineering
+
+---
+
+# Selected Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu015211&theme=redical&bg_color=0d0221&color=b794f6&line=8b5cf6&point=d6bcfa&hide_border=true"/>
+| Achievement | Description |
+|:---|:---|
+| Samsung Anveshana National Finalist | Developed **SafeHalo**, an AI-powered wearable safety solution |
+| Machine Learning Internship | Built the **UAC Capacity Monitor** predictive analytics platform |
+| Open Source Contributor | Contributed through GirlScript Summer of Code |
+| 97.11% Classification Accuracy | Human Behavior Classification using wearable sensor data |
+| R² Score of 0.969 | Healthcare forecasting model for capacity prediction |
+| Multiple AI Projects | Healthcare AI, Predictive Analytics, Developer Intelligence |
 
 </div>
 
-<br/>
+---
+
+# Certifications & Learning
+
+<div align="center">
+
+![](https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-0A66C2?style=for-the-badge)
+
+![](https://img.shields.io/badge/Simplilearn-Data%20Analytics-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI%20Tools-Workshop-4338CA?style=for-the-badge)
+
+![](https://img.shields.io/badge/GSSoC-Open%20Source-6D28D9?style=for-the-badge)
+
+</div>
+
+<br>
+
+### Currently Learning
+
+- System Design
+- Cloud Computing
+- Backend Architecture
+- Advanced Machine Learning
+- MLOps
+- Docker
+- CI/CD
 
 ---
 
-## Contribution Snake
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu015211&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu015211&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=priyanshu015211&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshu015211&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu015211&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
 
 <div align="center">
 
@@ -296,57 +723,134 @@ Contributing to a distributed engineering organization focused on applied AI and
 
 </div>
 
-<br/>
-
+---
 ---
 
-## Current Focus
+# Current Focus
 
 ```yaml
-learning:
-  - Advanced LLM orchestration & agentic system design
-  - Distributed systems at scale
-  - MLOps & production ML infrastructure
+name: Priyanshu Bhagat
 
-building:
-  - AI-driven healthcare coordination platforms
-  - Developer intelligence & career analytics tools
-  - Real-time capacity monitoring systems
+currently_learning:
+  - System Design
+  - Backend Engineering
+  - Cloud Computing
+  - Large Language Models (LLMs)
+  - MLOps
+  - Advanced Machine Learning
 
-exploring:
-  - Multi-agent AI architectures
-  - Edge deployment for ML inference
-  - System design for high-availability platforms
+currently_building:
+  - AI Developer Career Intelligence Platform
+  - AegisCare 2.0
+  - Professional Developer Portfolio
+  - Open Source Projects
 
-open_to:
-  - Software Engineering roles (Backend / Full Stack)
-  - AI/ML Engineering opportunities
-  - Open-source collaboration
+currently_exploring:
+  - AI Agents
+  - Retrieval-Augmented Generation (RAG)
+  - Distributed Systems
+  - Scalable Backend Architecture
+
+career_goal:
+  - Software Engineering Internship
+  - AI / Machine Learning Internship
+  - Open Source Contributions
+  - Building Production-Ready Software
 ```
 
-<br/>
-
 ---
 
-## Connect With Me
+# Development Philosophy
 
 <div align="center">
 
-<a href="mailto:priyanshu0@zohomail.in"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=zoho&logoColor=white"/></a>
-<a href="https://linkedin.com/in/priyanshu-bhagat-92238239a"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/priyanshu015211"><img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://priyanshubhagat.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+| Principle | Description |
+|:----------|:------------|
+| Clean Code | Build maintainable and readable software |
+| Scalability | Design systems that grow with users |
+| Problem Solving | Focus on practical, real-world solutions |
+| Continuous Learning | Stay current with modern technologies |
+| Collaboration | Learn through teamwork and open source |
+| Engineering Excellence | Prioritize quality, performance, and reliability |
 
 </div>
 
-<br/>
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:priyanshu0@zohomail.in">
+<img src="https://img.shields.io/badge/Email-priyanshu0%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshu-bhagat-92238239a">
+<img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Bhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/priyanshu015211">
+<img src="https://img.shields.io/badge/GitHub-priyanshu015211-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-url.com">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Good engineering is invisible — it just works, every single time."*
+### Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+I'm always interested in discussing:
+
+Artificial Intelligence • Machine Learning • Software Engineering • Backend Development • Open Source • Product Development
+
+Whether it's collaborating on projects, discussing new technologies, or sharing ideas, feel free to reach out.
 
 </div>
+
+---
+
+# Support My Work
+
+<div align="center">
+
+If you find my projects useful, consider giving them a ⭐ on GitHub.
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Great software is built through curiosity, discipline, and continuous improvement."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,20:4338CA,40:4F46E5,60:6366F1,80:7C3AED,100:8B5CF6"/>
+
+</div>
+
+<!--
+Keywords:
+AI Engineer
+Machine Learning
+Software Engineer
+Backend Developer
+Full Stack Developer
+Python
+Java
+Artificial Intelligence
+Open Source
+Data Analytics
+GitHub Profile
+-->
+
