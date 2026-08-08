@@ -48,11 +48,11 @@
 
 <div align="center">
 
-<a href="https://your-portfolio-url.com">
+<a href="https://priyanshu-r-portifolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/priyanshu-bhagat-92238239a">
+<a href="https://www.linkedin.com/in/priyanshu-r-bhagat">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
