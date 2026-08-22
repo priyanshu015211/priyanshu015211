@@ -379,7 +379,7 @@ Contributed to open-source projects while gaining experience with collaborative 
 
 ---
 
----
+
 
 # GitHub Analytics
 
@@ -452,37 +452,32 @@ Contributed to open-source projects while gaining experience with collaborative 
 
 ---
 
+---
+
 # GitHub Profile
 
 <div align="center">
 
 <a href="https://github.com/priyanshu015211">
-
-<img
-  src="https://img.shields.io/github/followers/priyanshu015211?style=for-the-badge&logo=github&label=Followers&color=6D28D9"
-/>
-
+<img src="https://img.shields.io/github/followers/priyanshu015211?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=6D28D9"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/priyanshu015211">
-
-<img
-  src="https://img.shields.io/github/stars/priyanshu015211?style=for-the-badge&logo=github&label=Stars&color=7C3AED"
-/>
-
+<img src="https://img.shields.io/github/stars/priyanshu015211?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=7C3AED"/>
 </a>
 
-<a href="https://github.com/priyanshu015211">
+&nbsp;&nbsp;
 
-<img
-  src="https://img.shields.io/github/repos/priyanshu015211?style=for-the-badge&logo=github&label=Repositories&color=4F46E5"
-/>
-
+<a href="https://github.com/priyanshu015211?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
+
 
 # Contribution Snake
 
