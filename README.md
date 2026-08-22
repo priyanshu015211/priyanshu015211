@@ -474,6 +474,12 @@ Contributed to open-source projects while gaining experience with collaborative 
 <img src="https://img.shields.io/badge/Public%20Repositories-View-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=priyanshu015211&style=for-the-badge&label=Profile%20Views&color=6D28D9"
+  alt="Profile Views"
+/>
 </div>
 
 ---
