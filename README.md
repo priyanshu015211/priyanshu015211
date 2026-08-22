@@ -379,25 +379,61 @@ Contributed to open-source projects while gaining experience with collaborative 
 
 ---
 
+---
+
 # GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/priyanshu015211">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu015211&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
-
-</a>
-
-<a href="https://github.com/priyanshu015211">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu015211&layout=compact&langs_count=6&hide_border=true&theme=tokyonight"/>
-
-</a>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu015211&theme=tokyo-night&hide_border=true&area=true&custom_title=Priyanshu%20Bhagat's%20Contribution%20Activity"
+  width="95%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=priyanshu015211&theme=tokyonight&hide_border=true&border_radius=10"/>
+<a href="https://github.com/priyanshu015211">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu015211&theme=tokyonight"
+    width="95%"
+  />
+</a>
+
+</div>
+
+---
+
+# GitHub Overview
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### Contributions
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshu015211&theme=tokyonight&utcOffset=5.5"
+  width="100%"
+/>
+
+</td>
+
+<td align="center" width="50%">
+
+### Languages
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshu015211&theme=tokyonight"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -407,17 +443,42 @@ Contributed to open-source projects while gaining experience with collaborative 
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu015211&theme=tokyo-night&hide_border=true&area=true&custom_title=Priyanshu%20Bhagat's%20Contribution%20Activity"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu015211&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+  width="95%"
+/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# GitHub Profile
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshu015211&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<a href="https://github.com/priyanshu015211">
+
+<img
+  src="https://img.shields.io/github/followers/priyanshu015211?style=for-the-badge&logo=github&label=Followers&color=6D28D9"
+/>
+
+</a>
+
+<a href="https://github.com/priyanshu015211">
+
+<img
+  src="https://img.shields.io/github/stars/priyanshu015211?style=for-the-badge&logo=github&label=Stars&color=7C3AED"
+/>
+
+</a>
+
+<a href="https://github.com/priyanshu015211">
+
+<img
+  src="https://img.shields.io/github/repos/priyanshu015211?style=for-the-badge&logo=github&label=Repositories&color=4F46E5"
+/>
+
+</a>
 
 </div>
 
